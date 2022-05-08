@@ -1,11 +1,11 @@
-<h1> Yo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> HI <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
    
 
 </p>
 </div>
 
-## Réseaux Sociaux 📧
+## Social Networks 📧
 
 <div> 
   <a href="https://www.youtube.com/channel/UCU3XcKYEly2LDY9Q-cPwSqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
