@@ -13,6 +13,10 @@
  <a href="https://discord.gg/F2kzfDFrPY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
 
 
+
+
+
+
    <img src="https://discord.c99.nl/widget/theme-1/958991248562225192.png"></img>
    
 <br />
