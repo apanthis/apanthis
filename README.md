@@ -3,7 +3,6 @@
    
 
 </p>
-<div size='20px'> Salut! Je suis TheTeamHackFR. Merci d'avoir pris le temps de consulter mon profil GitHub 🎁   
 </div>
 
 ## Réseaux Sociaux 📧
