@@ -16,9 +16,9 @@
 
 ## À propos de moi
 
-- 💎 J'aimerais créer un OS et mon propre langage de programmation !
-- 😈 Je taff sur des logiciels puissants !
-- 📙 Mon site web si jamais ca vous interesse [Website](http://th3te4mh4ckfr.mywebcommunity.org/)
+- 💎 I would like to create an OS and my own programming language! !
+- 😈 I work on powerful software !
+- 📙 My website if you are interested [Website](http://loxaw.github.io/)
 
    <img src="https://discord.c99.nl/widget/theme-1/958991248562225192.png"></img>
    
