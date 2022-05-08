@@ -1,21 +1,25 @@
-<h1> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Yo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
    
 
 </p>
+<div size='20px'> Salut! Je suis TheTeamHackFR. Merci d'avoir pris le temps de consulter mon profil GitHub 🎁   
 </div>
 
-## Social Networks 📧
+## Réseaux Sociaux 📧
 
 <div> 
-  <a href="https://www.youtube.com/channel/UC4lbVvyp-XmohqI9Ecq7_YA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/homayoun.ni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/F2kzfDFrPY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
+  <a href="https://www.youtube.com/channel/UCU3XcKYEly2LDY9Q-cPwSqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/theteamhackfr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/DkbuP2zGxt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
+  <a href ="mailto:theteamhackfr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
+## À propos de moi
 
-
-
+- 💎 J'aimerais créer un OS et mon propre langage de programmation !
+- 😈 Je taff sur des logiciels puissants !
+- 📙 Mon site web si jamais ca vous interesse [Website](http://th3te4mh4ckfr.mywebcommunity.org/)
 
    <img src="https://discord.c99.nl/widget/theme-1/958991248562225192.png"></img>
    
