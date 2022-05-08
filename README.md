@@ -12,8 +12,6 @@
   <a href="https://www.instagram.com/homayoun.ni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/F2kzfDFrPY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
 
-## À propos de moi
-
 
 - 📙 Mon site web si jamais ca vous interesse [Website](http://th3te4mh4ckfr.mywebcommunity.org/)
 
