@@ -20,8 +20,7 @@
 - 😈 I work on powerful software !
 - 📙 My website if you are interested [Website](http://loxaw.github.io/)
 
-<p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/969619837192134756?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/:858763588218519583)](https://discord.com/users/:858763588218519583)
    
 <br />
 <p align="center">
