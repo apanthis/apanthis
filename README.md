@@ -20,7 +20,12 @@
 - 😈 I work on powerful software !
 - 📙 My website if you are interested [Website](http://loxaw.github.io/)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/858763588218519583)](https://discord.com/users/858763588218519583)
+#
+<p align=center>
+<a href="https://discord.com/users/858763588218519583">
+<img src="https://cdn.discordapp.com/avatars/858763588218519583/1E6qZkzbGZHh9hWF4dQcTUdbmsYkvBYPrR.png?size=1024" width=60%>
+</a>
+  </p>
    
 <br />
 <p align="center">
