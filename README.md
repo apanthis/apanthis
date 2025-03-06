@@ -32,10 +32,10 @@
   <summary>Ability🌴</summary>
   
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Dev+Setup!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 
 
-### 👨‍💻 Dev Setup
+  ###<img src="https://readme-typing-svg.demolab.com/?lines=Dev+Setup!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+
 <p align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flate&logo=windows&logoColor=white"> 
 <img src="https://img.shields.io/badge/Chrome-EA4335.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> 
@@ -51,7 +51,7 @@
 
 
 
-### ⛓ Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+###<img src="https://readme-typing-svg.demolab.com/?lines=Languages+And+Tools!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
