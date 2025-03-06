@@ -14,10 +14,10 @@
 <p align="center">
 </a>
 <a href="https://github.com/apanthis/apanthis/fork" target="blank">
-<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+<img src="https://img.shields.io/github/forks/apanthis/apanthis?style=flat-square" alt="apanthis forks"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+<a href="https://github.com/apanthis/apanthis/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/apanthis/apanthis?style=flat-square" alt="apanthis stars"/>
 </a>
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
 <img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
