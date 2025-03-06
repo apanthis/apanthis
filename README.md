@@ -30,20 +30,8 @@
 
 
 
-
-<p align=center>
-<a href="https://discord.com/users/858763588218519583">
-<img src="https://cdn.discordapp.com/avatars/858763588218519583/1E6qZkzbGZHh9hWF4dQcTUdbmsYkvBYPrR.png?size=1024" width=60%>
-</a>
-  </p>
-   
-<br />
-<p align="center">
-  
-
-
 <details>
-  <summary>Plus D'informations sur moi🌴</summary>
+  <summary>Ability🌴</summary>
   
 ### 👨‍💻 Dev Setup
 <p align="center">
