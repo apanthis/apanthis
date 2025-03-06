@@ -12,9 +12,10 @@
 <a href="https://github.com/apanthis/apanthis/fork" target="blank">
 <img src="https://img.shields.io/github/forks/apanthis/apanthis?style=flat-square" alt="apanthis forks"/>
 </a>
-<a href="https://github.com/apanthis/apanthis/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/apanthis/apanthis?style=flat-square" alt="apanthis stars"/>
+<a href="https://github.com/apanthis/apanthis/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/apanthis/apanthis?style=flat-square" alt="apanthis stars"/>
 </a>
+
 <a href="https://github.com/apanthis" target="_blank">
     <img src="https://img.shields.io/github/followers/apanthis?style=social" alt="apanthis followers"/>
 </a>
