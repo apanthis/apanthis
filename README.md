@@ -32,11 +32,11 @@
   <summary>Ability🌴</summary>
   
 
-
+<p align="center">
 ### Dev Setup
 
 
-<p align="center">
+
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flate&logo=windows&logoColor=white"> 
 <img src="https://img.shields.io/badge/Chrome-EA4335.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> 
 <img src="https://img.shields.io/badge/VS Code-3799ce?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
@@ -49,10 +49,10 @@
 
 
 
-
+<p align="center">
 ### Languages And Tools
 
-<p align="center">
+
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
