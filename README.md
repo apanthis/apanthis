@@ -62,4 +62,9 @@
 </p>
 </details>
 
-[![apanthis](https://tenor.com/view/tommy-shelby-arthur-shelby-peaky-blinders-peaky-blinders-wedding-gif-11387969537080175195 "Demo Site")](https://readme-typing-svg.demolab.com/demo/)
+
+
+<p align="center">
+  <img src="https://tenor.com/view/tommy-shelby-arthur-shelby-peaky-blinders-peaky-blinders-wedding-gif-11387969537080175195" alt="pb" />
+</p>
+
