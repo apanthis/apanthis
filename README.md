@@ -27,8 +27,6 @@
 </a>
 </p>
 
-<p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
-
 
 
 
@@ -48,12 +46,13 @@
   <summary>Plus D'informations sur moi🌴</summary>
   
 ### 👨‍💻 Dev Setup
+<p align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flate&logo=windows&logoColor=white"> 
 <img src="https://img.shields.io/badge/Chrome-EA4335.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> 
 <img src="https://img.shields.io/badge/VS Code-3799ce?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
 <img src="https://img.shields.io/badge/Terminal-300a24.svg?&style=flat-square&logo=powershell&logoColor=white"> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-
+</p>
 
 
 
