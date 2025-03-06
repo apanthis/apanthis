@@ -25,8 +25,8 @@
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
 <img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
-<a href="https://discord.gg/HHMs7Eg" target="blank">
-<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
+<a href="https://discord.gg/Z8BuAbc5cX" target="blank">
+<img src="https://img.shields.io/discord/1040272008044363776?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of apanthis"/>
 </a>
 </p>
 
