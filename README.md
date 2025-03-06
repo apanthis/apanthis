@@ -1,14 +1,7 @@
 <h1> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-
-
-<p align="center">
-  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
-    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
-  </a>
-</p>
 <h1 align="center">
-  GitHub Profile README Generator
+  GitHub Profile Stat
 </h1>
 
 <p align="center">
