@@ -1,26 +1,5 @@
 <h1> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-   
 
-</p>
-</div>
-
-## Social Networks 📧
-
-<div> 
-  <a href="https://www.youtube.com/channel/UC4lbVvyp-XmohqI9Ecq7_YA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/homayoun.ni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/F2kzfDFrPY" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">  </a> 
-  </a>
-
-
-## À propos de moi
-
-- 💎 I would like to create an OS and my own programming language! !
-- 😈 I work on powerful software !
-- 📙 My website if you are interested [Website](http://loxaw.github.io/)
-
-#
 <p align=center>
 <a href="https://discord.com/users/858763588218519583">
 <img src="https://cdn.discordapp.com/avatars/858763588218519583/1E6qZkzbGZHh9hWF4dQcTUdbmsYkvBYPrR.png?size=1024" width=60%>
