@@ -19,11 +19,8 @@
 <a href="https://github.com/apanthis/apanthis/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/apanthis/apanthis?style=flat-square" alt="apanthis stars"/>
 </a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+<a href="https://github.com/apanthis" target="_blank">
+    <img src="https://img.shields.io/github/followers/apanthis?style=social" alt="apanthis followers"/>
 </a>
 <a href="https://discord.gg/Z8BuAbc5cX" target="blank">
 <img src="https://img.shields.io/discord/1040272008044363776?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of apanthis"/>
