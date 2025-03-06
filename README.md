@@ -68,3 +68,6 @@
   <img src="https://media.discordapp.net/attachments/608711494279888952/1281815060074860554/b8b19493ebe9a187dbcac61ecbc1acad.gif?ex=67cb0d8d&is=67c9bc0d&hm=852e31fccc5d8e2c6e9dc06e6a360d0022a8e2ab9386d3565af8c8b940b3ba82&=" alt="pb" />
 </p>
 
+```md
+noa 
+```
