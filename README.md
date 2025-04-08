@@ -34,7 +34,11 @@
 </p>
 
 
-
+<p align="center">
+  <a href="https://github.com/apanthis">
+    <img height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=apanthis&count_private=true&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
+  </a>
+</p>
 
 <details>
   <summary>Ability🌴</summary>
