@@ -10,6 +10,11 @@
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="s1834">
  </p>
 
+---
+<div align="center">
+  <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/530257809410097162' />
+</div>
+
 <p align="center">
 </a>
 <a href="https://github.com/apanthis/apanthis/fork" target="blank">
