@@ -19,6 +19,8 @@
 
 <img src="http://invidget.switchblade.xyz/Z8BuAbc5cX"/>
 
+<img src="https://discord.com/api/guilds/1040272008044363776/widget.png?style=banner3" alt="Discord Banner 3"/>
+
 <p align="center">
 </a>
 <a href="https://github.com/apanthis/apanthis/fork" target="blank">
