@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Persian+Gulf!;Don't+Forget+To+Join+The+Server!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Persian+Gulf!;Don't+Forget+To+Join+The+Server!&font=Fira%20Code&color=00F73F&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="center">
@@ -12,8 +12,7 @@
 
 ---
 
-## Disc
-
+<h2 align="center">Disc</h2>
 <div align="center">
   <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/530257809410097162' />
 </div>
