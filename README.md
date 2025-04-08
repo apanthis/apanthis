@@ -16,20 +16,12 @@
   <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/530257809410097162' />
 </div>
 
-
+<p align="center">
 <img src="http://invidget.switchblade.xyz/Z8BuAbc5cX"/>
-
-<img src="https://discord.com/api/guilds/1040272008044363776/widget.png?style=banner3" alt="Discord Banner 3"/>
+</p>
 
 <p align="center">
 </a>
-<a href="https://github.com/apanthis/apanthis/fork" target="blank">
-<img src="https://img.shields.io/github/forks/apanthis/apanthis?style=flat-square" alt="apanthis forks"/>
-</a>
-<a href="https://github.com/apanthis/apanthis/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/apanthis/apanthis?style=flat-square" alt="apanthis stars"/>
-</a>
-
 <a href="https://github.com/apanthis" target="_blank">
     <img src="https://img.shields.io/github/followers/apanthis?style=social" alt="apanthis followers"/>
 </a>
