@@ -1,5 +1,5 @@
 <h1 align="center">
-  GitHub Profile Stat
+  Welc
 </h1>
 
 <p align="center">
@@ -12,6 +12,8 @@
 
 ---
 
+## Disc
+
 <div align="center">
   <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/530257809410097162' />
 </div>
@@ -19,17 +21,6 @@
 <p align="center">
 <img src="http://invidget.switchblade.xyz/Z8BuAbc5cX"/>
 </p>
-
-<p align="center">
-</a>
-<a href="https://github.com/apanthis" target="_blank">
-    <img src="https://img.shields.io/github/followers/apanthis?style=social" alt="apanthis followers"/>
-</a>
-<a href="https://discord.gg/Z8BuAbc5cX" target="blank">
-<img src="https://img.shields.io/discord/1040272008044363776?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of apanthis"/>
-</a>
-</p>
-
 
 <p align="center">
   <a href="https://github.com/apanthis">
