@@ -12,7 +12,7 @@
 
 ---
 <div align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/:530257809410097162)](https://discord.com/users/:530257809410097162)
+  <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/530257809410097162' />
 </div>
 
 <p align="center">
