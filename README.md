@@ -15,7 +15,7 @@
 <div align="center">
   <img alt='Discord Status' src='https://lanyard.cnrad.dev/api/530257809410097162' />
 </div>
-https://invidget.switchblade.xyz/Z8BuAbc5cX
+![Dark theme preview](http://invidget.switchblade.xyz/Z8BuAbc5cX)
 <p align="center">
 </a>
 <a href="https://github.com/apanthis/apanthis/fork" target="blank">
